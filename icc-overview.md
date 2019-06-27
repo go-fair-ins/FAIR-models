@@ -13,10 +13,10 @@
 
 ## Properties (= Relations)
 
-- `refers-to-principle`: connects a `Choice` (left) to the FAIR principle (right) it refers to
-- `refers-to-choice`: connects a `Choice Declaration` (left) to the `Choice` (right) it is derived from (indicates row of the Matrix)
-- `declared-by`: connects a `Choice Declaration` (left) to the `Community` (right) that made the declaration
-- `chosen-resource`: connects `Choice Declaration` (left) to the `Resource` that was chosen through the declaration
+- `refers-to-principle`: connects a `Choice` (left) to the FAIR principle (right) it refers to (a choice can refer to zero or more FAIR principles)
+- `refers-to-choice`: connects a `Choice Declaration` (left) to the `Choice` (right) it is derived from (indicates row of the Matrix; a choice declaration has refer to exactly one choice; to address several choices, separate choice declarations should be defined)
+- `declared-by`: connects a `Choice Declaration` (left) to the `Community` (right) that made the declaration (a choice declaration has to refer to exactly one community; to refer to several communities, separate choice declarations should be defined)
+- `chosen-resource`: connects `Choice Declaration` (left) to the `Resource` that was chosen through the declaration (to refer to several resources, separate choice declarations should be defined)
 
 ## TODO
 
