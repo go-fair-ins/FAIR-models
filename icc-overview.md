@@ -1,5 +1,7 @@
 # Overview of the FAIR Implementation Choices and Challenges Model (Draft)
 
+## Diagram
+
 ![diagram](icc-overview-diagram.png)
 
 ## Namespace
