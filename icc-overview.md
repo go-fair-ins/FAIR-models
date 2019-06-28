@@ -15,7 +15,7 @@
 - `Consideration`: Something that is either a `Choice` or a `Challenge`
 - `Community`: A non-empty set of people and/or organizations that form a self-declared community with the aim to implement the FAIR principles for their fields of interest (communities are represented as columns in the Matrix)
 - `ChoiceDeclaration`: The expression of a community of their choice made (corresponds to an answer to a question, i.e. a cell in the Matrix)
-- `ChallengeDeclaration`: The expression of a community of challenge they accepted
+- `ChallengeDeclaration`: The expression of a community of a challenge they accepted
 - `Declaration`: Something that is either a `ChoiceDeclaration` or a `ChallengeDeclaration`
 - `Resource`: An artifact or service that can contribute to the implementation of the FAIR principles (corresponds to the possible values of the cells in the Matrix)
 
