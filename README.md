@@ -21,7 +21,7 @@ This is a repo for shared models/ontologies around FAIR.
 # FAIR Implementation Choices and Challenges
 
 - namespace: `https://w3id.org/fair/icc/terms/`
-- [overview](icc-overview.md)
+- [documentation](https://peta-pico.github.io/FAIR-nanopubs/icc/index-en.html)
 
 
 # FAIRsharing Subject Resource Application Ontology
